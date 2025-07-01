@@ -11,6 +11,7 @@
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.AssemblyInfo.cs
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.csproj.CoreCompileInputs.cache
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.sourcelink.json
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/scopedcss/bundle/SimpleRest.Web.styles.css
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/staticwebassets.build.json
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/staticwebassets.development.json
@@ -26,4 +27,3 @@
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.pdb
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.genruntimeconfig.cache
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/ref/SimpleRest.Web.dll
-/Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.sourcelink.json

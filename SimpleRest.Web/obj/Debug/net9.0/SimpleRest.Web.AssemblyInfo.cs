@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleRest.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820469e30263f7e76ebe65bdee8c2af6ca9217dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8095aa594d222e7c33626fbc3564de8630d1330f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleRest.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleRest.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
