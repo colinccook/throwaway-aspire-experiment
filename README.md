@@ -7,3 +7,9 @@ This is a small experimental app to see what NUnit-based integration tests would
 Very reminiscent of WebApplicationFactory for an individual service.
 
 I like it!
+
+```mermaid
+graph TD;
+    SimpleRest.AppHost.Tests-->SimpleRest.AppHost;
+    SimpleRest.AppHost-->SimpleRest.Web;
+```
