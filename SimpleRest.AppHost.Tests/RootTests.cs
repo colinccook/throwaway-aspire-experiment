@@ -16,8 +16,8 @@ public class RootTests
         await app.StartAsync();
 
         // Act
-        var httpClient = app.CreateHttpClient("webapi");
-        await resourceNotificationService.WaitForResourceAsync("webapi", KnownResourceStates.Running).WaitAsync(TimeSpan.FromSeconds(30));
+        var httpClient = app.CreateHttpClient(ProjectNames.WebApi);
+        await resourceNotificationService.WaitForResourceAsync(ProjectNames.WebApi, KnownResourceStates.Running).WaitAsync(TimeSpan.FromSeconds(30));
         var response = await httpClient.GetAsync("/");
         var responseBody = await response.Content.ReadAsStringAsync();
 

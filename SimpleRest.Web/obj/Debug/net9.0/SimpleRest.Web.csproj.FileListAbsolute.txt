@@ -26,3 +26,4 @@
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.pdb
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.genruntimeconfig.cache
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/ref/SimpleRest.Web.dll
+/Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.Web/obj/Debug/net9.0/SimpleRest.Web.sourcelink.json

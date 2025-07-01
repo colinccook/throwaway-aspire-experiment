@@ -187,3 +187,4 @@
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.AppHost.Tests/obj/Debug/net8.0/SimpleRest.AppHost.Tests.pdb
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.AppHost.Tests/obj/Debug/net8.0/SimpleRest.AppHost.Tests.genruntimeconfig.cache
 /Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.AppHost.Tests/obj/Debug/net8.0/ref/SimpleRest.AppHost.Tests.dll
+/Users/colin/vscode/throwaway-aspire-experiment/SimpleRest.AppHost.Tests/obj/Debug/net8.0/SimpleRest.AppHost.Tests.sourcelink.json
