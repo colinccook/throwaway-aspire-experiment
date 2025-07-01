@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZZJGC3JWORtvu9ZTCColTrbz+1Aa/QmnaOQusAGFeZ8=",
+  "Source": "SimpleRest.Web",
+  "BasePath": "_content/SimpleRest.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
